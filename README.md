@@ -8,3 +8,4 @@
 - textlint
 - GitHub Pages
 - GitHub Actions の練習
+- MDX も試したい？

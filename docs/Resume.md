@@ -15,5 +15,15 @@
 
 - [Zenn](https://zenn.dev/mayo_dev)
 - [Twitter](https://twitter.com/mayo__dev)
+- [GitHub](https://github.com/mayone-du)
 
 ---
+
+## 職務経歴詳細
+
+### 株式会社トリドリ（2021/10〜現在）
+
+- **プロジェクト規模：**
+  - 10 人チームでのスクラム開発
+- **プロジェクト詳細：**
+  - Next.js / TypeScript / Storybook を用いた Web フロントエンド開発
