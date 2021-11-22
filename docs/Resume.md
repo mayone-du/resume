@@ -19,11 +19,23 @@
 
 ---
 
+## 言語、技術等
+
+### フロントエンド
+
+- TypeScript
+- Next.js
+- Storybook
+- Mock Service Worker
+- Apollo Client
+
+<!-- ### バックエンド -->
+
 ## 職務経歴詳細
 
 ### 株式会社トリドリ（2021/10〜現在）
 
 - **プロジェクト規模：**
-  - 10 人チームでのスクラム開発
+  - 約 8 人チームでのスクラム開発
 - **プロジェクト詳細：**
   - Next.js / TypeScript / Storybook を用いた Web フロントエンド開発
