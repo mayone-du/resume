@@ -20,7 +20,7 @@
 
 ---
 
-## 使用経験のある言語、FW
+## 使用経験のある言語やフレームワーク、ライブラリ、ツール等
 
 特に記載がなければ実務での使用経験があるものです。
 
@@ -30,36 +30,33 @@
 - JavaScript / TypeScript
 - React / Next.js
 - GraphQL / Apollo Client
-- Storybook
-- Mock Service Worker
+- Storybook / Jest / Mock Service Worker
 
 ### バックエンド
 
 - TypeScript / Node.js / Apollo Server
 - Python / Django （個人開発で使用）
 
-#### 趣味等で触っているもの
-
-- Rust
-
 ## 保有スキル
+- TypeScript / React / Next.jsを用いたWebフロントエンドの開発
 
 ## 職務経歴詳細
 
 ### 株式会社トリドリ（2021/10〜現在）
 
-概要
+プログラミングを独学した後、2021年10月より未経験でエンジニアとして入社。
+toridori marketingの開発と、社内スタッフ管理画面の開発に携わる。
 
+#### toridori marketing
 - **プロジェクト規模：**
-  - 約 8 ~ 10 人チームでのスクラム開発
-  - 「トリドリ マーケティング」と、社内スタッフが使う管理画面のリニューアル
+  - フロント2名
+- **担当**
+  - フロントエンド実装
 - **プロジェクト詳細：**
-  - トリドリ マーケティング
-    - Next.js / TypeScript / Storybook を用いた Web フロントエンド開発
-    - 主にバグ修正やリファクタなどの運用、保守をしていました
-    - 新規機能の開発も少しやっています
-  - 社内スタッフ要管理画面
-    - Next.js / TypeScript / GraphQL / Apollo Client を用いたWebフロントエンド開発
-    - バックエンドにはPrismaを使用
-    - こちらはRailsで作られたモノリスなアプリの改修だったため、デザインの作成や、仕様設計、新規機能の開発がメインです
+  - Next.js / TypeScript / Storybook を用いた Web フロントエンド開発
+  - 入社後3ヶ月ほどは不具合修正などの運用、保守がメイン
+  - 途中から
 
+#### 社内スタッフ管理画面のリニューアル
+- **プロジェクト規模**
+  - デザインの作成や、機能の開発を担当。
