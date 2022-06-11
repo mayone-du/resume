@@ -64,3 +64,10 @@ GraphQL への移行や認証、Instagram API を用いたインサイト情報�
 - **プロジェクト詳細**
   - Next.js / TypeScript / Storybook / GraphQL / Apollo Client / MUI 等を用いた Web フロントエンド開発
   - TypeScript / Apollo Server / Prisma を用いた GraphQL API の開発
+
+## 業務外活動
+
+### 個人開発
+
+- オンラインサロンで使用しているニュースシェア用アプリの開発
+- Rust の Yew というフレームワークを使用した個人ブログの開発
