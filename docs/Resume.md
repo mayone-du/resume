@@ -30,10 +30,15 @@
 - Storybook / Jest / Mock Service Worker
 - Python / Django
 - Docker
+- Supabase
 
 ## 保有スキル
 
 - TypeScript / React / Next.js / Apollo GraphQL 等 を用いた Web フロントエンドの開発
+
+## 所持資格
+- 普通自動車第一種運転免許（AT限定）
+- 日本漢字能力検定 2級
 
 ## 職務経歴詳細
 
@@ -51,8 +56,8 @@ GraphQL への移行や認証、Instagram API を用いたインサイト情報�
 - **プロジェクト規模**
   - フロント 2 名
 - **プロジェクト詳細**
-  - Next.js / TypeScript / Storybook / GraphQL / Apollo Client / MUI 等を用いた Web フロントエンド開発
-  - TypeScript / Apollo Server / Prisma を用いた GraphQL API の開発
+  - Next.js / TypeScript / GraphQL / Apollo Client / MUI / Storybook / Cypress 等を用いた Web フロントエンド開発
+  - TypeScript / Apollo Server / Prisma / Jest を用いた GraphQL API の開発
 
 #### 社内スタッフ管理画面のリニューアル
 
@@ -63,7 +68,7 @@ GraphQL への移行や認証、Instagram API を用いたインサイト情報�
   - バックエンド 3 名
 - **プロジェクト詳細**
   - Next.js / TypeScript / Storybook / GraphQL / Apollo Client / MUI 等を用いた Web フロントエンド開発
-  - TypeScript / Apollo Server / Prisma を用いた GraphQL API の開発
+  - TypeScript / Apollo Server / Prisma / Jest を用いた GraphQL API の開発
 
 ## 業務外活動
 
