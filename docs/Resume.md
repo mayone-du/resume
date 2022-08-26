@@ -16,11 +16,10 @@
 - [GitHub](https://github.com/mayone-du)
 - [Zenn](https://zenn.dev/mayo_dev)
 - [Twitter](https://twitter.com/mayo__dev)
-<!-- - [Blog](https://mayone-du.github.io/yew-blog/) -->
 
 ---
 
-## 使用経験のある言語等
+## 使用経験のある技術等
 
 - HTML / CSS / Sass
 - JavaScript / TypeScript / Node.js
@@ -50,29 +49,31 @@ toridori marketing の開発と、社内スタッフ管理画面の開発に携�
 #### toridori marketing
 
 入社後 3 ヶ月ほどは主に不具合の修正などの保守・運用を担当。
-その後は既存機能・ページの改善として、デザイン作成から実装を担当。
-GraphQL への移行や認証、Instagram API を用いたインサイト情報の表示などを実装した。
+その後は既存機能・ページの改善として、デザイン作成から設計・実装等を担当。
+GraphQL への移行や認証、Instagram API を用いたインサイト情報の表示や機能改善などを担当した。
 
 - **プロジェクト規模**
   - フロント 2 名
-- **プロジェクト詳細**
+- **担当内容**
   - Next.js / TypeScript / GraphQL / Apollo Client / MUI / Storybook / Cypress 等を用いた Web フロントエンド開発
   - TypeScript / Apollo Server / Prisma / Jest を用いた GraphQL API の開発
+  - Figmaを用いたデザインの作成
 
 #### 社内スタッフ管理画面のリニューアル
 
 社内スタッフが使用する管理画面のデザイン・実装を担当。
+（どちらも自社プロダクトのため技術スタックはほぼ同じです。）
 
 - **プロジェクト規模**
   - フロント 2 名
   - バックエンド 3 名
-- **プロジェクト詳細**
+- **担当内容**
   - Next.js / TypeScript / Storybook / GraphQL / Apollo Client / MUI 等を用いた Web フロントエンド開発
   - TypeScript / Apollo Server / Prisma / Jest を用いた GraphQL API の開発
+  - Figmaを用いたデザインの作成
 
 ## 業務外活動
 
-### 個人開発
-
+- 業務委託でNext.jsやSupabase等を用いた新規プロダクトの仕様策定・設計・開発
 - オンラインサロンで使用しているニュースシェア用アプリの開発
 - Rust の Yew というフレームワークを使用した個人ブログの開発
