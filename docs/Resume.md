@@ -15,13 +15,14 @@
 
 - [GitHub](https://github.com/mayone-du)
 - [Zenn](https://zenn.dev/mayo_dev)
-- [Twitter](https://twitter.com/mayo__dev)
+<!-- - [Twitter](https://twitter.com/mayo__dev) -->
 
 ---
 
-## 使用経験のある技術等
+## 使用経験のある主な技術等
 
 - HTML / CSS / Sass
+- MUI / Mantine / Tailwind CSS
 - JavaScript / TypeScript / Node.js
 - React / Next.js
 - GraphQL / Apollo Client / Apollo Server
